@@ -10,5 +10,5 @@
 // 5. Guarda este archivo y sube todo el proyecto a GitHub / Vercel.
 // ============================================================
 
-window.SUPABASE_URL = "https://TU-PROYECTO.supabase.co";
-window.SUPABASE_ANON_KEY = "TU-ANON-KEY";
+window.SUPABASE_URL = "https://tlmqzboyrqfvfsaqyjxz.supabase.co";
+window.SUPABASE_ANON_KEY = "sb_publishable_d9S_J3hIfBjNeoVvcf2bFg_7aRQsKSA";
